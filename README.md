@@ -77,5 +77,8 @@ The training process consists of two phases:
 - **EfficientNetB0** performed poorly with an AUC close to **0.50**, indicating random classification.
 - Fine-tuning significantly improved performance for VGG16 and ResNet50.
 
-
+![EfficientNetB0](deep%20lense%20efficientnetB0.png)
+![MobileNetV2](deep%20lense%20mobilenetV2.png)
+![ResNet50](deep%20lense%20resnet50.png)
+![VGG16](deep%20lense%20vgg16.png)
 
