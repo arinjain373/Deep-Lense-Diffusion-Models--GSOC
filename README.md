@@ -37,19 +37,19 @@ The following models were fine-tuned and evaluated:
 - **Vortex Substructure:** AUC = **0.79**
 
 ### **ResNet50**
-![ResNet50 Performance](Common Test I. Multi-Class Classification/deep_lense_resnet50.png)
+![ResNet50 Performance](Common Test I. Multi-Class Classification/deep lense resnet50.png)
 - **No Substructure:** AUC = **0.87**
 - **Subhalo Substructure:** AUC = **0.75**
 - **Vortex Substructure:** AUC = **0.78**
 
 ### **EfficientNetB0**
-![EfficientNetB0 Performance](Common Test I. Multi-Class Classification/deep_lense_efficientnetB0.png)
+![EfficientNetB0 Performance](Common Test I. Multi-Class Classification/deep lense efficientnetB0.png)
 - **No Substructure:** AUC = **0.49**
 - **Subhalo Substructure:** AUC = **0.50**
 - **Vortex Substructure:** AUC = **0.50**
 
 ### **MobileNetV2**
-![MobileNetV2 Performance](Common Test I. Multi-Class Classification/deep_lense_mobilenetV2.png)
+![MobileNetV2 Performance](Common Test I. Multi-Class Classification/deep lense mobilenetV2.png)
 - **No Substructure:** AUC = **0.56**
 - **Subhalo Substructure:** AUC = **0.54**
 - **Vortex Substructure:** AUC = **0.52**
