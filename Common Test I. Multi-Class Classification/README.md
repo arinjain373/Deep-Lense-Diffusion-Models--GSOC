@@ -31,7 +31,7 @@ The model performance is evaluated using:
 The following models were fine-tuned and evaluated:
 
 ### **VGG16**
-![VGG16 Performance](Common%20Test%20I.%20Multi-Class%20Classification/deep%20lense%20vgg16.png)
+![VGG16 Performance](deep%20lense%20vgg16.png)
 - **No Substructure:** AUC = **0.89**
 - **Subhalo Substructure:** AUC = **0.77**
 - **Vortex Substructure:** AUC = **0.79**
