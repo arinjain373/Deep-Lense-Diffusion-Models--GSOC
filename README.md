@@ -20,7 +20,7 @@ The dataset consists of three classes:
 
 ---
 
-## 📊 Evaluation Metrics
+## Evaluation Metrics
 The model performance is evaluated using:
 - **ROC Curve (Receiver Operating Characteristic Curve)**
 - **AUC Score (Area Under the ROC Curve)**
@@ -55,11 +55,11 @@ The following models were fine-tuned and evaluated:
 ## Training Configuration
 The training process consists of two phases:
 
-### **🔹 First Training Phase**
+### ** First Training Phase**
 - **Epochs:** 20
 - **Batch Size:** 32 (Reduced to prevent memory issues)
 
-### **🔹 Second Phase: Fine-Tuning**
+### ** Second Phase: Fine-Tuning**
 - **Fine-Tune At:** Layer **100** (For VGG16 , **15**)
 - **Optimizer:** Adam (learning rate = **1e-5**)
 - **Loss Function:** Categorical Crossentropy
